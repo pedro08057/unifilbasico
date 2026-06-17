@@ -29,12 +29,14 @@ h2{
     flex-direction: column;
     margin: 20px;
     gap: 20px;
+    font-weight: normal;
 
 }
 
 .lista{
     color: #000000;
     margin: 20px;
+    font-weight: bold;
 }
 
 .botao{
@@ -53,4 +55,10 @@ h2{
     padding: 10px;
     margin: 20px;
     gap: 20px;
+}
+
+.caze{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
 }
