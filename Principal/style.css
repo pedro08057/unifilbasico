@@ -41,6 +41,7 @@ h2{
     background-color: greenyellow;
     color: #222;
     border: #222 solid 2px;
+    padding: 10px;
     margin: 20px;
     gap: 20px;
 }
@@ -48,7 +49,8 @@ h2{
 .favorito{
     background-color: blue;
     color: red;
-    border: #777 solid 3px;
+    border: #777 solid 2px;
+    padding: 10px;
     margin: 20px;
     gap: 20px;
 }
