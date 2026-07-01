@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;     
+    background-color: #f1f1f1;
+    
+}
+
+.titulo{
+    font-size: 50px;
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    margin: 20px; 
+}
+
+.texto{
+    font-size: 25px;
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    gap: 20px;
+}
+
+.subtitulo{
+    font-size: 20px;
+    color: #000000;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    gap: 20px;
+    font-weight: normal;
+
+}
+
+#lista{
+    color: #000000;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.botao{
+    background-color: greenyellow;
+    color: #222;
+    border: #222 solid 2px;
+    padding: 10px;
+    margin: 20px;
+    gap: 20px;
+}
+
+.favorito{
+    background-color: blue;
+    color: red;
+    border: #777 solid 2px;
+    padding: 10px;
+    margin: 20px;
+    gap: 20px;
+}
+
+/* .caze{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+} */
